@@ -5,7 +5,7 @@
 //  Created by 熊永静 on 16/3/4.
 //  Copyright © 2016年 静. All rights reserved.
 //
- 
+ /*
  项目上传
  1、新建一个工程
  2、点击+->add，让项目处于准备上传到本地状态。
